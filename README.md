@@ -20,7 +20,7 @@ With `require('jsonapi-server')`:
     at Module.load (module.js:565:32) code: 'MODULE_NOT_FOUND' }
 ```
 
-Without `require('jsonapi-server')` (and locally), it works fime:
+Without `require('jsonapi-server')` (and locally), it works fine:
 
 - https://brettdh-zeit-package-no-error.now.sh/
 - https://brettdh-zeit-package-no-error.now.sh/_logs/
