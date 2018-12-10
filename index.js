@@ -1,5 +1,5 @@
 // comment out to unbreak
-// var server = require('jsonapi-server');
+var server = require('jsonapi-server');
 
 var app = require('express')();
 
